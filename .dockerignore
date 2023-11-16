@@ -1,0 +1,12 @@
+.env
+env/*
+__pycache__/*
+app/__pycache__/*
+Prometheus/__pycache__/*
+user/__pycache__/*
+.vscode/*
+k8s/*
+.gitignore
+jenkinsfile
+README.md
+zzzz.txt
